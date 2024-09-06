@@ -20,6 +20,12 @@ The dataset features:
 ## Usage
 This dataset is ideal for training machine learning models for text classification and exploring natural language processing techniques.
 
+## Getting Started
+```python
+import pandas as pd
+data = pd.read_csv('https://raw.githubusercontent.com/junioralive/india-spam-sms-classification/main/dataset/spam_ham_india.csv')
+```
+
 ## Contributing
 Want to contribute? Great! 🌟 Check out the SMS Contribution Form [here](https://forms.gle/uLo5QWKtzqguKE2Y7) and help this dataset improve!
 
